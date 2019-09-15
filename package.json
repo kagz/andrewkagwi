@@ -2,6 +2,8 @@
     "name": "dru-portfolio",
     "version": "1.0.0",
     "description": "my portfolio",
+    "main": "index.js",
+    "homepage": "https://kagz.github.io/andrewkagwi",
     "scripts": {
         "sass": "node-sass -w scss/ -o dist/css/ --recursive ",
         "deploy": "gh-pages -d dist"
